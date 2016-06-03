@@ -1,6 +1,6 @@
 
 {
-  "name": "@visallo/openlayers2",
+  "name": "dvdnglnd/openlayers",
   "version": "2.13.1",
   "description": "OpenLayers 2 JavaScript Based Maps",
   "keywords": [
